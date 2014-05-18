@@ -1,0 +1,146 @@
+---------------en remove \r met n++----------------
+begin log om :18-05-2014_141212
+./.theos/fakeroot
+./.theos/last_package
+./.theos/packages/nl.mfok.unlockchangermfokpack-0.0.2
+./_/DEBIAN/control
+./_/Library/MobileSubstrate/DynamicLibraries/UnlockChangerMFOKTN.dylib
+./_/Library/MobileSubstrate/DynamicLibraries/UnlockChangerMFOKTN.plist
+./_/Library/PreferenceBundles/UnlockChangerMFOKSUB.bundle/UnlockChangerMFOKSUB.plist
+./_/Library/PreferenceLoader/Preferences/UnlockChangerMFOKPL.plist
+./nl.mfok.unlockchangermfokpack_0.0.2-16_iphoneos-arm.deb
+./nl.mfok.unlockchangermfokpack_0.0.2-17_iphoneos-arm.deb
+./nl.mfok.unlockchangermfokpack_0.0.2-18_iphoneos-arm.deb
+./nl.mfok.unlockchangermfokpack_0.0.2-19_iphoneos-arm.deb
+./test6.txt
+./unlockchangersub/Resources/UnlockChangerMFOKSUB.plist
+./unlockchangersub/obj/UnlockChangerMFOKSUB.bundle/UnlockChangerMFOKSUB.plist
+The current working directory: /var/root/testmf2
+The previous current working directory: 
+Mijn log file: /var/root/testmf2/test6.txt
+---------------en remove \r met n++----------------
+begin log om :18-05-2014_141235
+./.theos/fakeroot
+./.theos/last_package
+./.theos/packages/nl.mfok.unlockchangermfokpack-0.0.2
+./_/DEBIAN/control
+./_/Library/MobileSubstrate/DynamicLibraries/UnlockChangerMFOKTN.dylib
+./_/Library/MobileSubstrate/DynamicLibraries/UnlockChangerMFOKTN.plist
+./_/Library/PreferenceBundles/UnlockChangerMFOKSUB.bundle/UnlockChangerMFOKSUB.plist
+./_/Library/PreferenceLoader/Preferences/UnlockChangerMFOKPL.plist
+./nl.mfok.unlockchangermfokpack_0.0.2-17_iphoneos-arm.deb
+./nl.mfok.unlockchangermfokpack_0.0.2-18_iphoneos-arm.deb
+./nl.mfok.unlockchangermfokpack_0.0.2-19_iphoneos-arm.deb
+./test6.txt
+./unlockchangersub/Resources/UnlockChangerMFOKSUB.plist
+./unlockchangersub/obj/UnlockChangerMFOKSUB.bundle/UnlockChangerMFOKSUB.plist
+The current working directory: /var/root/testmf2
+The previous current working directory: 
+Mijn log file: /var/root/testmf2/test6.txt
+---------------en remove \r met n++----------------
+begin log om :18-05-2014_141300
+./.theos/fakeroot
+./.theos/last_package
+./.theos/packages/nl.mfok.unlockchangermfokpack-0.0.2
+./_/DEBIAN/control
+./_/Library/MobileSubstrate/DynamicLibraries/UnlockChangerMFOKTN.dylib
+./_/Library/MobileSubstrate/DynamicLibraries/UnlockChangerMFOKTN.plist
+./_/Library/PreferenceBundles/UnlockChangerMFOKSUB.bundle/UnlockChangerMFOKSUB.plist
+./_/Library/PreferenceLoader/Preferences/UnlockChangerMFOKPL.plist
+./nl.mfok.unlockchangermfokpack_0.0.2-17_iphoneos-arm.deb
+./nl.mfok.unlockchangermfokpack_0.0.2-18_iphoneos-arm.deb
+./nl.mfok.unlockchangermfokpack_0.0.2-19_iphoneos-arm.deb
+./nl.mfok.unlockchangermfokpack_0.0.2-20_iphoneos-arm.deb
+./test6.txt
+./unlockchangersub/Resources/UnlockChangerMFOKSUB.plist
+./unlockchangersub/obj/UnlockChangerMFOKSUB.bundle/UnlockChangerMFOKSUB.plist
+The current working directory: /var/root/testmf2
+The previous current working directory: 
+Mijn log file: /var/root/testmf2/test6.txt
+./Tweak.xm
+---------------en remove \r met n++----------------
+begin log om :18-05-2014_141737
+./.theos/fakeroot
+./.theos/last_package
+./.theos/packages/nl.mfok.unlockchangermfokpack-0.0.2
+./Tweak.xm
+./_/DEBIAN/control
+./_/Library/MobileSubstrate/DynamicLibraries/UnlockChangerMFOKTN.dylib
+./_/Library/MobileSubstrate/DynamicLibraries/UnlockChangerMFOKTN.plist
+./_/Library/PreferenceLoader/Preferences/UnlockChangerMFOKPL.plist
+./nl.mfok.unlockchangermfokpack_0.0.2-19_iphoneos-arm.deb
+./nl.mfok.unlockchangermfokpack_0.0.2-20_iphoneos-arm.deb
+./test6.txt
+The current working directory: /var/root/testmf2
+The previous current working directory: 
+Mijn log file: /var/root/testmf2/test6.txt
+./Tweak.xm
+./unlockchangersub/UnlockChangerMM.mm
+---------------en remove \r met n++----------------
+begin log om :18-05-2014_141954
+./.theos/fakeroot
+./.theos/last_package
+./.theos/packages/nl.mfok.unlockchangermfokpack-0.0.2
+./Tweak.xm
+./_/DEBIAN/control
+./_/Library/MobileSubstrate/DynamicLibraries/UnlockChangerMFOKTN.dylib
+./_/Library/MobileSubstrate/DynamicLibraries/UnlockChangerMFOKTN.plist
+./_/Library/PreferenceLoader/Preferences/UnlockChangerMFOKPL.plist
+./nl.mfok.unlockchangermfokpack_0.0.2-19_iphoneos-arm.deb
+./nl.mfok.unlockchangermfokpack_0.0.2-20_iphoneos-arm.deb
+./test6.txt
+./unlockchangersub/UnlockChangerMM.mm
+The current working directory: /var/root/testmf2
+The previous current working directory: 
+Mijn log file: /var/root/testmf2/test6.txt
+---------------en remove \r met n++----------------
+begin log om :18-05-2014_142323
+./.theos/fakeroot
+./.theos/last_package
+./.theos/packages/nl.mfok.unlockchangermfokpack-0.0.2
+./Tweak.xm
+./nl.mfok.unlockchangermfokpack_0.0.2-20_iphoneos-arm.deb
+./test6.txt
+./unlockchangersub/UnlockChangerMM.mm
+The current working directory: /var/root/testmf2
+The previous current working directory: 
+Mijn log file: /var/root/testmf2/test6.txt
+./.theos/fakeroot
+./.theos/last_package
+./.theos/packages/nl.mfok.unlockchangermfokpack-0.0.2
+./_/DEBIAN/control
+./_/Library/MobileSubstrate/DynamicLibraries/UnlockChangerMFOKTN.dylib
+./_/Library/MobileSubstrate/DynamicLibraries/UnlockChangerMFOKTN.plist
+./_/Library/PreferenceBundles/UnlockChangerMFOKSUB.bundle/UnlockChangerMFOKSUB
+./_/Library/PreferenceLoader/Preferences/UnlockChangerMFOKPL.plist
+./nl.mfok.unlockchangermfokpack_0.0.2-21_iphoneos-arm.deb
+./obj/.stamp
+./obj/Tweak.xm.8c755954.o
+./obj/UnlockChangerMFOKTN.dylib
+./unlockchangersub/obj/.stamp
+./unlockchangersub/obj/UnlockChangerMFOKSUB.bundle/UnlockChangerMFOKSUB
+./unlockchangersub/obj/UnlockChangerMM.mm.ad823712.o
+---------------en remove \r met n++----------------
+begin log om :18-05-2014_142702
+./.theos/fakeroot
+./.theos/last_package
+./.theos/packages/nl.mfok.unlockchangermfokpack-0.0.2
+./Tweak.xm
+./_/DEBIAN/control
+./_/Library/MobileSubstrate/DynamicLibraries/UnlockChangerMFOKTN.dylib
+./_/Library/MobileSubstrate/DynamicLibraries/UnlockChangerMFOKTN.plist
+./_/Library/PreferenceBundles/UnlockChangerMFOKSUB.bundle/UnlockChangerMFOKSUB
+./_/Library/PreferenceLoader/Preferences/UnlockChangerMFOKPL.plist
+./nl.mfok.unlockchangermfokpack_0.0.2-20_iphoneos-arm.deb
+./nl.mfok.unlockchangermfokpack_0.0.2-21_iphoneos-arm.deb
+./obj/.stamp
+./obj/Tweak.xm.8c755954.o
+./obj/UnlockChangerMFOKTN.dylib
+./test6.txt
+./unlockchangersub/UnlockChangerMM.mm
+./unlockchangersub/obj/.stamp
+./unlockchangersub/obj/UnlockChangerMFOKSUB.bundle/UnlockChangerMFOKSUB
+./unlockchangersub/obj/UnlockChangerMM.mm.ad823712.o
+The current working directory: /var/root/testmf2
+The previous current working directory: 
+Mijn log file: /var/root/testmf2/test6.txt

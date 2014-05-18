@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>nl.mfok.unlockchanger~prefs</string>
+			<key>key</key>
+			<string>enabled</string>
+			<key>label</key>
+			<string>Enable</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>nl.mfok.unlockchanger~prefs</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>text</string>
+			<key>label</key>
+			<string>Slider Text:</string>
+			<key>placeholder</key>
+			<string>slide to unlock</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Voetnootje</string>
+			<key>label</key>
+			<string>Settings groep 2</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>nl.mfok.unlockchanger~prefs</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>text2</string>
+			<key>label</key>
+			<string>Slider Text2:</string>
+			<key>placeholder</key>
+			<string>slide to unlock</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<integer>5</integer>
+			<key>defaults</key>
+			<string>nl.mfok.unlockchanger~prefs</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>ButtonsPerPage</string>
+			<key>label</key>
+			<string>Switches Per Page</string>
+			<key>validTitles</key>
+			<array>
+				<string>Two</string>
+				<string>Three</string>
+				<string>Four</string>
+				<string>Five</string>
+				<string>Six</string>
+				<string>Unpaged</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>2</integer>
+				<integer>3</integer>
+				<integer>4</integer>
+				<integer>5</integer>
+				<integer>6</integer>
+				<integer>0</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>bundle</key>
+			<string>FlipswitchSettings</string>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>flipswitchDefaultDisabled</key>
+			<array>
+				<string>com.a3tweaks.switch.rotation</string>
+				<string>com.a3tweaks.switch.flashlight</string>
+				<string>com.rpetrich.flipcontrolcenter.clock</string>
+				<string>com.rpetrich.flipcontrolcenter.calculator</string>
+				<string>com.rpetrich.flipcontrolcenter.camera</string>
+				<string>com.a3tweaks.switch.settings</string>
+				<string>com.a3tweaks.switch.respring</string>
+			</array>
+			<key>flipswitchDefaultEnabled</key>
+			<array>
+				<string>com.a3tweaks.switch.airplane-mode</string>
+				<string>com.a3tweaks.switch.wifi</string>
+				<string>com.a3tweaks.switch.bluetooth</string>
+				<string>com.a3tweaks.switch.do-not-disturb</string>
+				<string>com.a3tweaks.switch.rotation-lock</string>
+			</array>
+			<key>flipswitchDisabledKey</key>
+			<string>DisabledIdentifiers</string>
+			<key>flipswitchEnabledKey</key>
+			<string>EnabledIdentifiers</string>
+			<key>flipswitchPostNotification</key>
+			<string>com.rpetrich.flipcontrolcenter.settingschanged</string>
+			<key>flipswitchSettingsFile</key>
+			<string>/var/mobile/Library/Preferences/nl.mfok.unlockchanger~prefs</string>
+			<key>flipswitchTemplateBundle</key>
+			<string>/Library/Application Support/FlipControlCenter/TopShelf.bundle</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Active Switches</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>UnlockChangerMFOK</string>
+</dict>
+</plist>

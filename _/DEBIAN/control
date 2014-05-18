@@ -1,0 +1,10 @@
+Package: nl.mfok.unlockchangermfokpack
+Name: UnlockChangerMFOKname
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Tweak which changes your ‘slide to unlock’ text
+Maintainer: mfok
+Author: mfok
+Section: Tweaks
+Version: 0.0.2-22
+Installed-Size: 252

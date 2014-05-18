@@ -1,0 +1,10 @@
+-------------------------------
+begin log om :18-05-2014_133425
+./test2.txt
+./test3.txt
+./test4.txt
+./test5.txt
+./test6.txt
+The current working directory: /var/root/testmf2
+The previous current working directory: 
+Mijn log file: /var/root/testmf2/test6.txt
